@@ -1,3 +1,6 @@
+
+<img width="3608" height="1908" alt="CatRStudio" src="https://github.com/user-attachments/assets/ec51b65c-cdba-46f4-9fb6-219152765e44" />
+
 ```javascript
 const seri = {
   callMe: ["Josemari", "Jose", "Seri"],
