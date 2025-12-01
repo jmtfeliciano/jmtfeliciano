@@ -1,4 +1,3 @@
-<img width="443", align="center", height="236" alt="CatRStudio" src="https://github.com/user-attachments/assets/4c6f121b-92b1-4551-a234-4caaf2929df0" />
 
 ```javascript
 const seri = {
