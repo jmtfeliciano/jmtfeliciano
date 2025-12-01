@@ -9,7 +9,7 @@ const seri = {
               "Accenture Full Stack Developer",
               "Yale Teaching Fellow",
               "Merck Data Science Intern",
-              "USDA Data Scientist",
+              "USDA Statistician",
               "SBA Data Scientist",
               "DHS Data Scientist",
               "American Univ Lecturer"],
