@@ -20,4 +20,4 @@ const seri = {
 }
 ```
 
-<img width="885" align = "center" height="472" alt="CatRStudio" src="https://github.com/user-attachments/assets/9c98f6db-9d64-4fbe-b4f4-250fa0f6ee48" />
+<img width="442" align = "center" height="236" alt="CatRStudio" src="https://github.com/user-attachments/assets/9c98f6db-9d64-4fbe-b4f4-250fa0f6ee48" />
