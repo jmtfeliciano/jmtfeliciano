@@ -5,7 +5,7 @@ const seri = {
   rolesHeld: ["US Air Force Enlisted",
               "Google UX Engineer",
               "Facebook SWE Fellow",
-              "Accenture Web Developer",
+              "Accenture Full Stack Developer,
               "Yale Teaching Fellow",
               "Merck Data Science Intern",
               "USDA Data Scientist",
