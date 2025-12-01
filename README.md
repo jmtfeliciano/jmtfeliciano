@@ -10,7 +10,8 @@ const seri = {
               "Merck Data Science Intern",
               "USDA Data Scientist",
               "SBA Data Scientist",
-              "DHS Data Scientist"],
+              "DHS Data Scientist",
+              "American Univ Lecturer"],
   education: ["Harvard Math Bachelors", "Yale Biostatistics Masters"],
   code: ["Javascript", "R", "Python", "HTML","CSS", "SQL", "SAS"],
   tools: ["Tidyverse", "React", "ExpressJS", "Node.js"]
