@@ -14,6 +14,7 @@ const seri = {
               "American Univ Lecturer"],
   education: ["Harvard Math Bachelors", "Yale Biostatistics Masters"],
   code: ["Javascript", "R", "Python", "HTML","CSS", "SQL", "SAS"],
-  tools: ["Tidyverse", "React", "ExpressJS", "Node.js"]
+  dataScienceSpecialty: ["Forecasting", "Spatial Statistics", "Geospatial", "NLP", "Data Governance"],
+  favoriteTools: ["Tidyverse", "React", "ExpressJS", "Node.js"]
 }
 ```
